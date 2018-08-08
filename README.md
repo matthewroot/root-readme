@@ -23,11 +23,44 @@ List of favorite influences
 
 ## Expectations
 
+### What you can expect from me
+
+Words
+
+### What I expect of you
+
+Words
+
+### Balancing life and work
+
 Words
 
 ## Communicating With Me
 
-Words
+My primary guideline for communication is to consider what channel is most appropriate for our interaction. If you're looking for more than five minutes of back-and-forth, let's talk in person. If you have a quick question, Slack is great. Just trying to disseminate some non-urgent information to a broad group? Email seems like a solid choice. Here's a few other details about how I operate with each channel:
+
+### Talking
+
+I'm happy to make time to discuss something in-person whenever you need to, whether that's scheduled via a meeting or ad-hoc. For the latter, a heads up on Slack is cool or just stop by and give me a good old-fashioned tap on the shoulder. If I've got my headphones on it typically means I'm focused on something but that should never stop you from interrupting me. Again, you're my first priority.
+
+### Slack
+
+Generally, the easiest way to get in touch with me. I try to stay on top of Slack and respond in less than an hour during the workday. The one complication is that I'm frequently in meetings. It's my goal to be focused in a meeting and not doing other things. I typically play catch up on Slack between meetings. In the event that I'll need more time to respond, I will try to let you know that.
+
+### Email
+
+I'm quite averse to it and try to spend as little time as possible dealing with it. Typically, I'll lump my email processing into a morning session and an afternoon session. However, if the day is full, this can slip. When something is urgent, please do not use email or we're both going to have a sad time.
+
+### PagerDuty
+
+If it's off-hours and urgent, please page me.
+
+### Mobile phone
+
+I generally try to avoid disseminating my mobile number at work. If you think you'll need it, let's talk.
+
+### Social media
+Nope.
 
 ## Bugs // Quirks
 
