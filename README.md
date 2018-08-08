@@ -2,11 +2,7 @@
 
 ## What is this?
 
-Words
-
-## My Story
-
-Words
+Think of this as a documentation for Matthew Root. It's intended purpose is to accelerate your understanding of me as a human and Engineering Manager. It is __not__ intended as a substitute for getting to know me. Building a relationship, in real life, is one of the most important things we'll do together. This README should be used a supplement and a guide rather than a replacement for that.
 
 ## Management Philosophy
 
@@ -34,6 +30,10 @@ Words
 Words
 
 ## Bugs // Quirks
+
+Words
+
+## My Story
 
 Words
 
