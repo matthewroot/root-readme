@@ -21,22 +21,52 @@ The following are the core tenets that provide the foundation for how I prefer t
 
 ### Management Influences
 
-List of favorite influences
-Thinking, Fast and Slow
-
 ## Expectations
 
 ### What you can expect from me
 
-Words
+#### You will be a top priority
+
+#### Give my best in everything I do
+
+#### Default to transparent
+
+#### Default to trust
+
+#### Feedback will be delivered in a timely fashion
+
+#### Pointing you in the right direction
+
+When you need it, I'll help get you oriented in the right direction. In the event that I don't know what that is, I'll either identify someone who will or commit to coming back to you with an answer.
 
 ### What I expect of you
 
-Words
+#### Give your best in everything you do
+
+#### Try to get better every day
+
+#### Act like an owner
+
+#### Don't accept status quo
+
+#### Don't withhold feedback for me
 
 ### Balancing life and work
 
-Words
+I believe that it's important to find a healthy balance between work and the rest of life. I want this balance for both of us.
+
+There's so much more to living a fulfilling life than success at work. Let's work hard while we're here and focus on life when we're not. To make you more comfortable about pursuing this balance, I'll endeavor to always model appropriate behavior. That means that you should not encounter me doing the following things*:
+
+* Staying late in the office; I usually head home by 6pm
+* Working on weekends
+* Using email or Slack off-hours
+* Scheduling meetings very early or very late in the day
+
+Given that I try to not do these myself, it would be unfair of me to expect you to. If you find me not leading by example --by exhibiting the above (or other) behaviors or encouraging behavior from you that leads to poor balance of work with life-- please voice your objection. The most likely explanation is that I did not consciously realize I was doing this and speaking up will help me to correct course.
+
+I prefer people to work smarter and not harder. If you find that you're needing to work well beyond 40 hours to be successful in your role, we should have a conversation about what adjustments can be made to make this not the case.
+
+_*The obvious exception here is emergency situations._
 
 ## Communicating With Me
 
@@ -68,9 +98,10 @@ Nope.
 ## Bugs // Quirks
 
 * Direct and intense
-* Rambling, fast talker
+* Fast talker, tendency to ramble
 * Stubborn
 * Better at starting than finishing
+* Get bored easily
 
 ## My Story
 
