@@ -2,7 +2,7 @@
 
 ## What is this?
 
-Think of this as documentation for Matthew Root. Its intended purpose is to accelerate your understanding of me as a human and Engineering Manager. It is __not__ intended as a substitute for getting to know me. Building a relationship, in real life, is one of the most important things we'll do together. This README should be used as a supplement and a guide rather than a replacement for that.
+Think of this as documentation for Matthew Root. Its intended purpose is to accelerate your understanding of me as a human and Engineering Manager and to provide insight into what our working relationship will look like. It is __not__ intended as a substitute for getting to know me. Building a relationship, in real life, is one of the most important things we'll do together. This README should be used as a supplement and a guide rather than a replacement for that.
 
 ## Management Philosophy
 
@@ -19,21 +19,31 @@ The following are the core tenets that provide the foundation for how I prefer t
 * __Feedback is vital:__ Give pointed, direct feedback on a regular basis. Don’t wait for an annual review to help someone improve. Try to generalize negative feedback and be specific with positive feedback. Additionally, seek out feedback from those you work with, in all directions, in order to drive your own growth.
 * __Diverse teams make the best decisions__: This may seem obvious but software industry demographics indicate it is not. Seek out a variety of backgrounds and talent profiles when building a team.
 
-### Management Influences
-
 ## Expectations
 
 ### What you can expect from me
 
+Here is a short list of what behaviors you should expect from me at all times. If I'm ever failing to meet any of the expectations outlined in this section, please let me know immediately. This is not an exhaustive list of expectations but aims to cover those that are most vital.
+
 #### You will be a top priority
+
+It's my belief that the people who report to me are _the job_. I'm tasked with various other responsibilities as an Engineering Manager but none are higher priority in my view than ensuring my direct reports are getting what they need to be successful. In practice, this means you should expect that I will make time for you when you need it, follow through on commitments I make to you, and help you deal with whatever challenges you encounter.
 
 #### Give my best in everything I do
 
+This is a foundational principle for how I approach everything in my life. If I'm going to do something, I try to do it as well as I can. This doesn't mean that I will always deliver outstanding results, just that I'll aim to do my best. In practice, this means you should expect me to give you a great effort on every front from our 1:1 meetings to performance evaluations to helping you navigate challenges.
+
 #### Default to transparent
+
+I believe organizations operate at their highest level when information is not restricted. In the interest of this, I commit to being transparent and to proactively share as much as I can. The flip side of this is that you should feel epowered to ask me for information. The two important exceptions to this policy of transparency which I will always keep confidential are sensitive personal information and conversations around performance.
 
 #### Default to trust
 
+Simply put, I'll trust you until you give me a reason not to. I want my direct reports to have a lot of autonomy and that's only possible when paired with trust. You shouldn't find me micromanaging your work, schedule, or decision-making. I'll likely ask you a lot of probing questions but this is generally due to curiosity or a desire to gain more context.
+
 #### Feedback will be delivered in a timely fashion
+
+Giving feedback, both positive and constructive, is one of the most important functions I perform in my role as a manager. Since feedback has such high value, not giving it to you as soon as I have it would be doing you a disservice. You'll often find me giving you feedback right away, in the moment when I perceive something. When it's not possible to provide that realtime feedback or when I come to have feedback outside of direct interactions with you, I will provide this to you in our next 1:1. It's my goal for you to always know how you're doing. If there are surprises for you in a performance feedback loop, it's an indication that I'm not being effective at this.
 
 #### Pointing you in the right direction
 
