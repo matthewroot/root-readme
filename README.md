@@ -8,7 +8,7 @@ Think of this as documentation for Matthew Root. Its intended purpose is to acce
 
 The following are the core tenets that provide the foundation for how I prefer to manage. I strive to adhere to these all the time. If you ever find me to be in violation of one of these ideas, please point it out to me. That will help me do better in the future.
 
-* __Measuring stick for success:__ Can someone go out and get a better role after you’ve been their manager? You’ve got to care about the development of people to your core. Make your direct reports are your highest priority.
+* __Measuring stick for success:__ Can someone go out and get a better role after you’ve been their manager? You’ve got to care about the development of people to your core. Make your direct reports your highest priority.
 * __Put people and the team first:__ Constantly ask, what can I do to be most helpful to you or the team? The most helpful thing you can do may be totally different day-to-day, week-to-week, person-to-person, or team-to-team. Default to the assumption that you’re the worst on the team and treat everyone else like they’re more awesome than you. If you’ve hired right, that will be true.
 * __Constant improvement:__ Make this a fundamental value for both individuals and the team itself. Don’t set anything in stone. Don’t assume you’re ever doing something perfect. When you’ve made one improvement, move onto the next thing. Repeat forever.
 * __How to move mountains:__ Give a properly motivated team a high degree of trust and autonomy.
