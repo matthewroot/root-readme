@@ -1,8 +1,33 @@
 # Personal README
 
-## What is this?
+__What is this?__
 
 Think of this as documentation for Matthew Root. Its intended purpose is to accelerate your understanding of me as a human and Engineering Manager and to provide insight into what our working relationship will look like. It is __not__ intended as a substitute for getting to know me. Building a relationship, in real life, is one of the most important things we'll do together. This README should be used as a supplement and a guide rather than a replacement for that.
+
+<!-- TOC -->
+
+- [Management Philosophy](#management-philosophy)
+- [Expectations](#expectations)
+    - [What you can expect from me](#what-you-can-expect-from-me)
+    - [What I expect of you](#what-i-expect-of-you)
+    - [Balancing life and work](#balancing-life-and-work)
+- [Communicating With Me](#communicating-with-me)
+    - [Talking](#talking)
+    - [Slack](#slack)
+    - [Email](#email)
+    - [PagerDuty](#pagerduty)
+    - [Mobile phone](#mobile-phone)
+    - [Social media](#social-media)
+- [Bugs // Quirks](#bugs--quirks)
+- [My Story](#my-story)
+    - [Chapter 1: NOVA](#chapter-1-nova)
+    - [Chapter 2: State College](#chapter-2-state-college)
+    - [Chapter 3: Various](#chapter-3-various)
+    - [Chapter 4: San Francisco](#chapter-4-san-francisco)
+- [Personal Interests](#personal-interests)
+- [Recruiting Pitch](#recruiting-pitch)
+
+<!-- /TOC -->
 
 ## Management Philosophy
 
