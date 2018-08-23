@@ -78,13 +78,31 @@ When you need it, I'll help get you oriented in the right direction. In the even
 
 #### Give your best in everything you do
 
+If you're going to do something, do it as well as you can. I don't expect that outcomes or results will be perfect, just that you'll give your best effort. When you find yourself not striving to do your best on something, I encourage that you take a step back and examine why that is. Perhaps it's not an activity you should be spending your time on.
+
 #### Try to get better every day
+
+It's important for you to prioritize your growth. When you become more capable and can rise to new challenges it benefits you (better career opportunities), me (my success is based on your increasing success), and our employer (solving bigger problems, higher productivity, etc). You may not succeed in improving every day but, if that's your goal, it's likely to happen more days than not. Making this type of incremental daily progress leads to noticeable improvement in weeks, a significant change in months, and a radical difference over the course of a year. Get a little bit better every day and don't ever quit. Therein lies the path to greatness.
 
 #### Act like an owner
 
+Treat our software, team, Engineering organization, and company like you own it. If you've got equity, the latter will be literally true, but this means more than that. It's about acting like an owner and caring about what goes on in a way that you would if it was entirely yours. When you see a problem, call it out. If you've got a solution, suggest it. Help us push forward on more fronts than just building software.
+
 #### Don't accept status quo
 
+Nothing that we've created to this point, from software to processes to structures, is perfect and cannot be improved upon. Don't assume that present state is the correct future state. The opposite is generally true for software startups as they grow. Most of what we've done in the past will need to evolve or be replaced with something better along the way. Try to see with [beginner's eyes](ADD LINK) and continually examine how we could be doing better, everywhere.
+
 #### Don't withhold feedback for me
+
+Feedback is equally important for me to receive. Positive feedback helps me to validate my methods and, because I'm a human, it also feels good. Constructive feedback gives me insight into how I can improve. Regardless of the type of feedback you may have for me, know that I view it as a gift and am eager to have it. I typically try to solicit your feedback directly on a wide range of topics in our 1:1s but I may not always hit upon an area where you have feedback for me. Because of this, it's important that you take the initiative as necessary. Getting your feedback in a timely manner is also quite important. If something isn't going well, I prefer to make a change quickly rather than to have the problem fester.
+
+Here's a model for getting to a place of comfort in giving feedback that I think is great (include ref):
+
+1. thing
+1. thing
+1. thing
+
+It will be my goal to build and maintain a relationship of trust with you so that you remain open to engaging in challenging discussions with me. However, if for any reason you have feedback for me that you don't feel comfortable addressing with me directly, please use this [anonymous feedback form](ADD LINK).
 
 ### Balancing life and work
 
