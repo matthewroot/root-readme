@@ -18,7 +18,11 @@ Think of this as documentation for Matthew Root. Its intended purpose is to acce
     - [PagerDuty](#pagerduty)
     - [Mobile phone](#mobile-phone)
     - [Social media](#social-media)
-- [Bugs // Quirks](#bugs--quirks)
+- [Bugs & Quirks](#bugs--quirks)
+    - [Direct and intense](#direct-and-intense)
+    - [Fast talker, sporadic rambler](#fast-talker-sporadic-rambler)
+    - [Stubborn](#stubborn)
+    - [Gets bored easily](#gets-bored-easily)
 - [My Story](#my-story)
     - [Chapter 1: NOVA](#chapter-1-nova)
     - [Chapter 2: State College](#chapter-2-state-college)
@@ -148,13 +152,25 @@ I generally try to avoid disseminating my mobile number at work. If you think yo
 ### Social media
 Nope.
 
-## Bugs // Quirks
+## Bugs & Quirks
 
-* Direct and intense
-* Fast talker, tendency to ramble
-* Stubborn
-* Better at starting than finishing
-* Get bored easily
+Like most humans, I come equipped with a handful of flaws and personality traits that you may find challenging. There are ways in which I try to control or compensate for each of these tendencies but I'm not always successful. My hope is that by being open about these aspects of my personality you will feel comfortable with calling them out if they become a problem for you.
+
+### Direct and intense
+
+My [Insights personality profile](ADD LINK) is _quite_ red. When we interact, I probably won't beat around the bush and may be more direct than you prefer. I also tend to become more intense as I bring more of my focus to bear on a problem. My brow may furrow and I might even look mad. Be aware this is typically not the case, it's just how I look when my brain is getting down to business on a good challenge. If my directness or intensity becomes too much, there's no harm in letting me know so I can dial it back a bit.
+
+### Fast talker, sporadic rambler
+
+This manifests most acutely when I'm excited about a topic. If I'm ever talking so fast that you can't understand me, kindly ask me to slow down and//or repeat anything you may have missed. When I get on a ramble, I'll typically call it out on my own and take stock with you about whether what I'm saying is useful. If that doesn't happen, please don't feel bad about interrupting me and steering back to the point.
+
+### Stubborn
+
+My least favorite bug. When I've got a strong opinion, my tendency is to dig in and defend it. This is most problematic if I transition away from being open-minded in a discussion. However, I love a good argument and am always pleased to have my mind changed as it usually means I'm seeing the world with more truth. If you find me pushing back against you, lean into it and help me to hear you. If you ever find me being overly stubborn, point it out; it won't be a surprise although you may catch me getting red from embarrassment.
+
+### Gets bored easily
+
+I prefer to move fast and I feed off progress. When this isn't happening, my brain will push me towards something new. This can occur on a variety of fronts: projects, books, and even conversations. A consequence of this tendency is that I am generally better at starting than finishing. When projects drag and lose momentum my interest tends to go with it. If you manage me, helping to keep new challenges in front of me is the best way to keep me happy. If you report to me or are a peer, you'll find I'm at my best when I can step back and let you do your thing after I've put in enough energy to foster escape velocity.
 
 ## My Story
 
@@ -163,7 +179,7 @@ I've traversed an atypical path into Engineering Management. Here's my lifestory
 ### Chapter 1: NOVA
 
 * I grew up outside of Washington, DC in a nice corner of Northern Virginia.
-* In my youth, I spent a lot of my time playing soccer and videogames and reading. My Dad worked for DOD so we had a computer in my house about as early as I can remember.
+* In my youth, I spent a lot of my time playing soccer and videogames and reading. My Dad worked for DoD so we had a computer in my house about as early as I can remember.
 * I first began writing code at the age of 12 because I wanted to build a website for my Diablo guild. It had a lot of animated .gifs and I thought it was the coolest.
 * In high school, I was fortunate that my school had computer science courses and I began programming in C++ in 10th grade. I talked my mom into getting two whiteboards for my bedroom so I could plan out programs at home.
 * I played lacrosse for a state championship-winning team and made All-State playing bass clarinet.
