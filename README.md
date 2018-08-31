@@ -29,7 +29,7 @@ Think of this as documentation for Matthew Root. Its intended purpose is to acce
     - [Chapter 3: Various](#chapter-3-various)
     - [Chapter 4: San Francisco](#chapter-4-san-francisco)
 - [Personal Interests](#personal-interests)
-- [Recruiting Pitch](#recruiting-pitch)
+- [Want to work together?](#want-to-work-together)
 
 <!-- /TOC -->
 
@@ -94,19 +94,11 @@ Treat our software, team, Engineering organization, and company like you own it.
 
 #### Don't accept status quo
 
-Nothing that we've created to this point, from software to processes to structures, is perfect and cannot be improved upon. Don't assume that present state is the correct future state. The opposite is generally true for software startups as they grow. Most of what we've done in the past will need to evolve or be replaced with something better along the way. Try to see with [beginner's eyes](ADD LINK) and continually examine how we could be doing better, everywhere.
+Nothing that we've created to this point, from software to processes to structures, is perfect and cannot be improved upon. Don't assume that present state is the correct future state. The opposite is generally true for software startups as they grow. Most of what we've done in the past will need to evolve or be replaced with something better along the way. Try to examine what you find with a [beginner's mind](https://en.wikipedia.org/wiki/Shoshin) and regularly consider how we could be doing better, everywhere.
 
 #### Don't withhold feedback for me
 
 Feedback is equally important for me to receive. Positive feedback helps me to validate my methods and, because I'm a human, it also feels good. Constructive feedback gives me insight into how I can improve. Regardless of the type of feedback you may have for me, know that I view it as a gift and am eager to have it. I typically try to solicit your feedback directly on a wide range of topics in our 1:1s but I may not always hit upon an area where you have feedback for me. Because of this, it's important that you take the initiative as necessary. Getting your feedback in a timely manner is also quite important. If something isn't going well, I prefer to make a change quickly rather than to have the problem fester.
-
-Here's a model for getting to a place of comfort in giving feedback that I think is great (include ref):
-
-1. thing
-1. thing
-1. thing
-
-It will be my goal to build and maintain a relationship of trust with you so that you remain open to engaging in challenging discussions with me. However, if for any reason you have feedback for me that you don't feel comfortable addressing with me directly, please use this [anonymous feedback form](ADD LINK).
 
 ### Balancing life and work
 
@@ -158,7 +150,7 @@ Like most humans, I come equipped with a handful of flaws and personality traits
 
 ### Direct and intense
 
-My [Insights personality profile](ADD LINK) is _quite_ red. When we interact, I probably won't beat around the bush and may be more direct than you prefer. I also tend to become more intense as I bring more of my focus to bear on a problem. My brow may furrow and I might even look mad. Be aware this is typically not the case, it's just how I look when my brain is getting down to business on a good challenge. If my directness or intensity becomes too much, there's no harm in letting me know so I can dial it back a bit.
+My [Insights personality profile](https://github.com/matthewroot/root-readme/blob/master/matthew_root_insights_insights_color_breakdown.pdf) is _quite_ red. When we interact, I probably won't beat around the bush and may be more direct than you prefer. I also tend to become more intense as I bring more of my focus to bear on a problem. My brow may furrow and I might even look mad. Be aware this is typically not the case, it's just how I look when my brain is getting down to business on a good challenge. If my directness or intensity becomes too much, there's no harm in letting me know so I can dial it back a bit.
 
 ### Fast talker, sporadic rambler
 
@@ -222,6 +214,6 @@ Besides having a genuine love of technology, and software in particular, I am pa
 - Physical fitness: while I don't spend much time playing organized sports as I get older, I still take my physical fitness quite seriously. This means both eating healthy and putting in solid work at the gym. If you're looking to improve your fitness, I'd be happy to help in any way I can.
 - Music: my dad is an audiophile so this was inevitable. I like just about everything except country and opera. I spend most of my time listening to a mix of classic rock, 90s, and electronic music.
 
-## Recruiting Pitch
+## Want to work together?
 
-Words
+If any of the above resonated with you and we're not already working together (and you'd be interested in changing that), please connect with me on [LinkedIn](https://www.linkedin.com/in/rootmatt/). We're always looking for great frontend engineers at Optimizely and there are a [variety of positions](https://www.optimizely.com/careers/#positions) open for other teams as well.
