@@ -8,8 +8,8 @@ Think of this as documentation for Matthew Root. Its intended purpose is to acce
 
 - [Management Philosophy](#management-philosophy)
 - [Expectations](#expectations)
-    - [What you can expect from me](#what-you-can-expect-from-me)
-    - [What I expect of you](#what-i-expect-of-you)
+    - [What you can expect of me](#what-you-can-expect-of-me)
+    - [What I will expect of you](#what-i-will-expect-of-you)
     - [Balancing life and work](#balancing-life-and-work)
 - [Communicating With Me](#communicating-with-me)
     - [Talking](#talking)
@@ -37,22 +37,22 @@ Think of this as documentation for Matthew Root. Its intended purpose is to acce
 
 The following are the core tenets that provide the foundation for how I prefer to manage. I strive to adhere to these all the time. If you ever find me to be in violation of one of these ideas, please point it out to me. That will help me do better in the future.
 
-- __Measuring stick for success:__ Can someone go out and get a better role after you’ve been their manager? You’ve got to care about the development of people to your core. Make your direct reports your highest priority.
-- __Put people and the team first:__ Constantly ask, what can I do to be most helpful to you or the team? The most helpful thing you can do may be totally different day-to-day, week-to-week, person-to-person, or team-to-team. Default to the assumption that you’re the worst on the team and treat everyone else like they’re more awesome than you. If you’ve hired right, that will be true.
+- __Measuring stick for success:__ Can someone go out and get a better role after you’ve been their manager? You’ve got to care about the development of people to your core.
+- __Put people and the team first:__ Constantly ask what you can do to be most helpful to individuals or the team? The most helpful thing you can do may be totally different day-to-day, week-to-week, person-to-person, or team-to-team. Default to the assumption that you’re the worst on the team and treat everyone else like they’re more awesome than you. If you’ve hired right, that will be true.
 - __Constant improvement:__ Make this a fundamental value for both individuals and the team itself. Don’t set anything in stone. Don’t assume you’re ever doing something perfect. When you’ve made one improvement, move onto the next thing. Repeat forever.
 - __How to move mountains:__ Give a properly motivated team a high degree of trust and autonomy.
-- __Achieving motivation:__ Help everyone understand the value of what the team is doing and what they as an individual are doing. Make sure everyone knows priorities and reasoning behind them. Be transparent and honest about goals. Keep their growth central to your focus and make it a part of their everyday life.
+- __Achieving motivation:__ Help everyone to understand the value of what the team is doing and what they as an individual are doing. Make sure everyone knows the priorities and how they were determined. Be transparent and honest about goals. Keep your reports' growth central to your focus and make it a part of their everyday life.
 - __Autonomy:__ Let teams decide for themselves how they best operate. Actively seek out new ideas. When someone has an idea, consider it with an open mind and err on the side of trying new things. You can always revert if something doesn’t work. Don’t micromanage someone’s day or their work.
-- __Create a safe and comfortable psychological space__: Strive to craft this work environment for engineers and teams. Encourage them to share their ideas. Listen to those opinions//feedback. Take action on what you’re hearing. Foster a culture of blameless criticism.
-- __Management is important and valuable__: I've been fortunate to have great managers that I've learned so much from. I try to provide that experience to everyone I work with. I’ve also seen the negative impacts of bad management and lack of management.
+- __Create a safe and comfortable psychological space__: Strive to craft this work environment for engineers and teams. Encourage people to share their ideas. Listen to those opinions and feedback. Take action on what you’re hearing. Foster a culture of blameless criticism.
+- __Management is important and valuable__: Great managers can make a positive difference in people's lives and can materially impact the success of a team or a business. Bad management and lack of management can be equally destructive. Try to provide a great experience to everyone you work with. An important distinction here is to not focus on trying to make everyone like you all the time. Great management often means telling people hard truths. Which leads into...
 - __Feedback is vital:__ Give pointed, direct feedback on a regular basis. Don’t wait for an annual review to help someone improve. Try to generalize negative feedback and be specific with positive feedback. Additionally, seek out feedback from those you work with, in all directions, in order to drive your own growth.
-- __Diverse teams make the best decisions__: This may seem obvious but software industry demographics indicate it is not. Seek out a variety of backgrounds and talent profiles when building a team.
+- __Diverse teams make the best decisions__: This may seem obvious but software industry demographics indicate it is not. Seek out a variety of backgrounds and talent profiles when building a team. Strive for great communication to unlock the power of these different experiences.
 
 ## Expectations
 
-### What you can expect from me
+### What you can expect of me
 
-Here is a short list of what behaviors you should expect from me at all times. If I'm ever failing to meet any of the expectations outlined in this section, please let me know immediately. This is not an exhaustive list of expectations but aims to cover those that are most vital.
+Here is a short list of behaviors you should expect from me at all times. If I'm ever failing to meet any of the expectations outlined in this section, please let me know immediately. This is not an exhaustive list of expectations but aims to cover those that are most vital.
 
 #### You will be a top priority
 
@@ -64,7 +64,7 @@ This is a foundational principle for how I approach everything in my life. If I'
 
 #### Default to transparent
 
-I believe organizations operate at their highest level when information is not restricted. In the interest of this, I commit to being transparent and to proactively share as much as I can. The flip side of this is that you should feel epowered to ask me for information. The two important exceptions to this policy of transparency which I will always keep confidential are sensitive personal information and conversations around performance.
+I believe organizations operate at their highest level when information is not restricted. In the interest of this, I commit to being transparent and to proactively share as much as I can. The flip side of this is that you should feel epowered to ask me for information. Two important exceptions to this policy of transparency are sensitive personal information and conversations around performance; I will always keep these confidential.
 
 #### Default to trust
 
@@ -78,15 +78,15 @@ Giving feedback, both positive and constructive, is one of the most important fu
 
 When you need it, I'll help get you oriented in the right direction. In the event that I don't know what that is, I'll either identify someone who will or commit to coming back to you with an answer.
 
-### What I expect of you
+### What I will expect of you
 
 #### Give your best in everything you do
 
-If you're going to do something, do it as well as you can. I don't expect that outcomes or results will be perfect, just that you'll give your best effort. When you find yourself not striving to do your best on something, I encourage that you take a step back and examine why that is. Perhaps it's not an activity you should be spending your time on.
+If you're going to do something, do it as well as you can. I don't expect that outcomes will be perfect all the time, just that you'll give your best effort. When you find yourself not striving to do your best on something, I encourage you to take a step back and examine why that is. Perhaps it's not an activity you should be spending your time on.
 
 #### Try to get better every day
 
-It's important for you to prioritize your growth. When you become more capable and can rise to new challenges it benefits you (better career opportunities), me (my success is based on your increasing success), and our employer (solving bigger problems, higher productivity, etc). You may not succeed in improving every day but, if that's your goal, it's likely to happen more days than not. Making this type of incremental daily progress leads to noticeable improvement in weeks, a significant change in months, and a radical difference over the course of a year. Get a little bit better every day and don't ever quit. Therein lies the path to greatness.
+It's important for you to prioritize your growth. When you become more capable and can rise to new challenges it benefits you (better career opportunities), me (my success is based on your increasing success), and our employer (solving bigger problems, higher productivity, etc). You may not succeed in improving every day but, if that's your goal, it's likely to happen more days than not. Making this type of incremental daily progress leads to noticeable improvement in weeks, a significant change in months, and a radical difference over the course of a year. Get a little bit better every day and don't ever quit. That's the path to greatness.
 
 #### Act like an owner
 
@@ -146,7 +146,7 @@ Nope.
 
 ## Bugs & Quirks
 
-Like most humans, I come equipped with a handful of flaws and personality traits that you may find challenging. There are ways in which I try to control or compensate for each of these tendencies but I'm not always successful. My hope is that by being open about these aspects of my personality you will feel comfortable with calling them out if they become a problem for you.
+Like most humans, I come equipped with a handful of flaws and personality traits that you may find challenging. There are ways in which I try to control or compensate for each of these tendencies but I'm not always successful. My hope is that by being open about these aspects of my personality you will feel comfortable calling them out if they become a problem for you.
 
 ### Direct and intense
 
@@ -166,7 +166,7 @@ I prefer to move fast and I feed off progress. When this isn't happening, my bra
 
 ## My Story
 
-I've traversed an atypical path into Engineering Management. Here's my lifestory in a nutshell to provide you some insight into the road I've traveled to now.
+I've traversed an atypical path into Engineering Management. Here's my lifestory in a nutshell to provide you some insight into my road from then to now.
 
 ### Chapter 1: NOVA
 
@@ -178,17 +178,17 @@ I've traversed an atypical path into Engineering Management. Here's my lifestory
 
 ### Chapter 2: State College
 
-- Enrolled at Penn State University to study Computer Science.
+- I enrolled at Penn State University to study Computer Science. It was my dream to open my own videogame studio as a technical founder.
 - About two years in, I got freaked out about being pigeon-holed as a programmer in a cubicle for the rest of my life. In a moment of panic, I switched my major to Electrical Engineering (EE).
-- Focused my EE degree on optics, lasers, and antenna design.
+- Focused my EE degree on antenna design, lasers, and optics.
 - Loved being in college so much that I stuck around for half of a super-duper senior year. I think anyone who only goes for a fifth year of undergrad isn't truly dedicated to the cause.
-- Finally graduated with what I'm sure is one of the lowest GPAs in PSU Engineering history for someone who actually completed a degree.
 
 ### Chapter 3: Various
 
 - Moved back to NOVA and took a job as an EE with a large government contractor.
 - Spent the next three years working on full-scale military flight simulators and sliding into misery.
 - Met my now-wife and let her convince me we should both quit our jobs we didn't like. She took a traveling contract gig and we set off. I had zero plan about what I would do for my career. The only certainty was that I didn't want to be an EE any longer.
+- Started our fantastic voyage in the booming metropolis of South Boston, VA. I spent those three months contemplating life and future career possibilities.
 - Ended up in Houston, TX for a year. Tried to jumpstart a freelance writing career. Made about $250 total but had some cool experiences.
 - Started bartending and teaching SAT prep classes to help with bills. Realized neither of these were great longterm options and that I should be doing something more with my life.
 - Decided to try to get back into software engineering, my first passion, and move to the mecca for it, San Francisco. Taught myself SQL in a weekend and started coding again in Java.
@@ -200,7 +200,7 @@ I've traversed an atypical path into Engineering Management. Here's my lifestory
 - Joined Opower, a rapidly growing mid-sized startup focused on driving energy efficiency using behavioral science, as an Associate Professional Services Engineer.
 - Spent the next 2.5 years rising through the PSE ranks and taking on some of the most complex projects the group faced. Began managing a delivery team with several direct reports.
 - Transitioned into Engineering to manage a team focused on internal tools development. Spent about six months as an individual contributor and learning the tech stack before fully transitioning into EM role. Spent my last two years at Opower managing this team in various incarnations and working on a handful of applications
-- Oracle acquires Opower, 40% of Engineering leaves, sadness ensues.
+- Oracle acquires Opower, a huge chunk of Engineering leaves including my manager, sadness ensues.
 - Joined Optimizely, a rapidly growing mid-sized startup focused on digital experimentation, as an Engineering Manager for the Frontend Engineering team.
 - ?
 
@@ -208,11 +208,11 @@ I've traversed an atypical path into Engineering Management. Here's my lifestory
 
 Besides having a genuine love of technology, and software in particular, I am passionate about a number of other activities. Here's a sampling of those:
 
-- Learning: a huge part of why I love being a manager is to help others to learn and grow. I'm also extremely passionate about my own pursuit of knowledge and understanding of the universe. Neuroscience, psychology, and genetics are a few recurring topics for me.
-- Games: videogames make up the majority of my gaming time but I also really enjoy boardgames. I'm particularly invigorated these days by cooperative games. I've spent way too much time playing Dota 2.
-- Reading: I read both fiction and nonfiction. I'm always looking for new book recommendations so this is one of my favorite topics to connect with people on. The majority of my fiction reading is spent on sci-fi and fantasy but I dabble all over.
-- Physical fitness: while I don't spend much time playing organized sports as I get older, I still take my physical fitness quite seriously. This means both eating healthy and putting in solid work at the gym. If you're looking to improve your fitness, I'd be happy to help in any way I can.
-- Music: my dad is an audiophile so this was inevitable. I like just about everything except country and opera. I spend most of my time listening to a mix of classic rock, 90s, and electronic music.
+- __Learning__: a huge part of why I love being a manager is to help others to learn and grow. I'm also extremely passionate about my own pursuit of knowledge in the interest of trying to better understand the universe. Genetics, neuroscience, psychology, and space are a few recurring topics for me.
+- __Games__: videogames make up the majority of my gaming time but I also really enjoy boardgames. I'm particularly invigorated these days by cooperative games. I've spent way too much time playing Dota 2.
+- __Reading__: I read both fiction and nonfiction. I'm always looking for new book recommendations so this is one of my favorite topics to connect with people on. The majority of my fiction reading is spent on sci-fi and fantasy but I dabble all over.
+- __Physical fitness__: while I don't spend much time playing organized sports as I get older, I still take my physical fitness quite seriously. This means both eating healthy and putting in solid work at the gym. If you're looking to improve your fitness, I'd be happy to help in any way I can.
+- __Music__: my dad is an audiophile so this was inevitable. I like just about everything except country and opera. I spend most of my time listening to a mix of classic rock, 90s, electronic music, and hip hop. Abbey Road is my favorite Beatles album.
 
 ## Want to work together?
 
