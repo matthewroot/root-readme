@@ -11,7 +11,7 @@ Think of this as documentation for Matthew Root. Its intended purpose is to acce
 The following are the core tenets that provide the foundation for how I prefer to manage. I strive to adhere to these all the time. If you ever find me to be in violation of one of these ideas, please point it out to me. That will help me do better in the future.
 
 - __Measuring stick for success:__ Can someone go out and get a better role after you’ve been their manager? You’ve got to care about the development of people to your core.
-- __Put people and the team first:__ Constantly ask what you can do to be most helpful to individuals or the team? The most helpful thing you can do may be totally different day-to-day, week-to-week, person-to-person, or team-to-team. Default to the assumption that you’re the worst on the team and treat everyone else like they’re more awesome than you. If you’ve hired right, that will be true.
+- __Put direct reports and teams first:__ Constantly ask what you can do to be most helpful to individuals or the team? The most helpful thing you can do may be totally different day-to-day, week-to-week, person-to-person, or team-to-team. I want the focus to be on the team and not on me.
 - __Constant improvement:__ Make this a fundamental value for both individuals and the team itself. Don’t set anything in stone. Don’t assume you’re ever doing something perfect. When you’ve made one improvement, move onto the next thing. Repeat forever.
 - __How to move mountains:__ Give a properly motivated team a high degree of trust and autonomy.
 - __Achieving motivation:__ Help everyone to understand the value of what the team is doing and what they as an individual are doing. Make sure everyone knows the priorities and how they were determined. Be transparent and honest about goals. Keep your reports' growth central to your focus and make it a part of their everyday life.
@@ -37,7 +37,7 @@ This is a foundational principle for how I approach everything in my life. If I'
 
 #### Default to transparent
 
-I believe organizations operate at their highest level when information is not restricted. In the interest of this, I commit to being transparent and to proactively share as much as I can. The flip side of this is that you should feel epowered to ask me for information. Two important exceptions to this policy of transparency are sensitive personal information and conversations around performance; I will always keep these confidential.
+I believe organizations operate at their highest level when information is not restricted. In the interest of this, I commit to being transparent and to proactively share as much as I can. The flip side of this is that you should feel empowered to ask me for information. Two important exceptions to this policy of transparency are sensitive personal information and conversations around performance; I will always keep these confidential.
 
 #### Default to trust
 
@@ -45,7 +45,7 @@ Simply put, I'll trust you until you give me a reason not to. I want my direct r
 
 #### Feedback will be delivered in a timely fashion
 
-Giving feedback, both positive and constructive, is one of the most important functions I perform in my role as a manager. Since feedback has such high value, not giving it to you as soon as I have it would be doing you a disservice. You'll often find me giving you feedback right away, in the moment when I perceive something. When it's not possible to provide that realtime feedback or when I come to have feedback outside of direct interactions with you, I will provide this to you in our next 1:1. It's my goal for you to always know how you're doing. If there are surprises for you in a performance feedback loop, it's an indication that I'm not being effective at this.
+Giving feedback, both positive and constructive, is one of the most important functions I perform in my role as a manager. Since feedback has such high value, not giving it to you as soon as I have it would be doing you a disservice. You'll often find me giving you feedback right away, in the moment, when I perceive something. When it's not possible to provide that realtime feedback or when I come to have feedback outside of direct interactions with you, I will provide this to you in our next 1:1. It's my goal for you to always know how you're doing. If there are surprises for you in a performance feedback loop, it's an indication that I'm not being effective at this.
 
 #### Pointing you in the right direction
 
@@ -63,7 +63,7 @@ It's important for you to prioritize your growth. When you become more capable a
 
 #### Act like an owner
 
-Treat our software, team, Engineering organization, and company like you own it. If you've got equity, the latter will be literally true, but this means more than that. It's about acting like an owner and caring about what goes on in a way that you would if it was entirely yours. When you see a problem, call it out. If you've got a solution, suggest it. Help us push forward on more fronts than just building software.
+Treat our software, team, engineering organization, and company like you own it. If you've got equity, the latter will be literally true, but this means more than that. It's about acting like an owner and caring about what goes on in a way that you would if it was entirely yours. When you see a problem, call it out. If you've got a solution, suggest it. Help us push forward on more fronts than just building software.
 
 #### Don't accept status quo
 
@@ -86,17 +86,19 @@ There's so much more to living a fulfilling life than success at work. Let's wor
 
 Given that I try to not do these myself, it would be unfair of me to expect you to. If you find me not leading by example --by exhibiting the above (or other) behaviors or encouraging behavior from you that leads to poor balance of work with life-- please voice your objection. The most likely explanation is that I did not consciously realize I was doing this and speaking up will help me to correct course.
 
-I prefer people to work smarter and not harder. If you find that you're needing to work well beyond 40 hours to be successful in your role, we should have a conversation about what adjustments can be made to make this not the case.
+I prefer people to make better use of their time rather than just working longer hours. If you find that you're needing to work well beyond 40 hours to be successful in your role, we should have a conversation about what adjustments can be made to make this not the case.
 
-_*The obvious exception here is emergency situations._
+_*An exception here is emergency situations, such as a production outage, which may require atypical behavior._
 
 ## Communicating With Me
 
-My primary guideline for communication is to consider what channel is most appropriate for our interaction. If you're looking for more than five minutes of back-and-forth, let's talk in person. If you have a quick question, Slack is great. Just trying to disseminate some non-urgent information to a broad group? Email seems like a solid choice. Here's a few other details about how I operate with each channel:
+My primary guideline for communication is to consider what channel is most appropriate for our interaction. If you're looking for more than five minutes of back-and-forth, let's talk in person. If you have a quick question, Slack is great. Just trying to disseminate some non-urgent information to a broad group? Email seems like a solid choice. Here are a few other details about how I operate, broken down by channel:
 
 ### Talking
 
 I'm happy to make time to discuss something in-person whenever you need to, whether that's scheduled via a meeting or ad-hoc. For the latter, a heads up on Slack is cool or just stop by and give me a good old-fashioned tap on the shoulder. If I've got my headphones on it typically means I'm focused on something but that should never stop you from interrupting me. Again, you're my first priority.
+
+If we aren't co-located and you want to talk, send me a message on Slack and we can jump on a videochat.
 
 ### Slack
 
@@ -123,7 +125,7 @@ Like most humans, I come equipped with a handful of flaws and personality traits
 
 ### Direct and intense
 
-My [Insights personality profile](matthew_root_insights_insights_color_breakdown.pdf) is _quite_ red. When we interact, I probably won't beat around the bush and may be more direct than you prefer. I also tend to become more intense as I bring more of my focus to bear on a problem. My brow may furrow and I might even look mad. Be aware this is typically not the case, it's just how I look when my brain is getting down to business on a good challenge. If my directness or intensity becomes too much, there's no harm in letting me know so I can dial it back a bit.
+My [Insights personality profile](matthew_root_insights_insights_color_breakdown.pdf) is _quite_ [red](https://www.consciousbusinesspeople.com/wp-content/uploads/2017/10/insights-four-colour-energies-preferences-1.png). When we interact, I probably won't beat around the bush and may be more direct than you prefer. I also tend to become more intense as I bring more of my focus to bear on a problem. My brow may furrow and I might even look mad. Be aware this is typically not a reflection of my emotional state, it's just how I look when my brain is getting down to business on a good challenge. If my directness or intensity becomes too much, there's no harm in letting me know so I can dial it back a bit.
 
 ### Fast talker, sporadic rambler
 
@@ -131,7 +133,7 @@ This manifests most acutely when I'm excited about a topic. If I'm ever talking 
 
 ### Stubborn
 
-My least favorite bug. When I've got a strong opinion, my tendency is to dig in and defend it. This is most problematic if I transition away from being open-minded in a discussion. However, I love a good argument and am always pleased to have my mind changed as it usually means I'm seeing the world with more truth. If you find me pushing back against you, lean into it and help me to hear you. If you ever find me being overly stubborn, point it out; it won't be a surprise although you may catch me getting red from embarrassment.
+My least favorite bug. When I've got a strong opinion, my tendency is to dig in and defend it. This is most problematic if I transition away from being open-minded in a discussion. However, I love a good debate and am always pleased to have my mind changed as it usually means I'm seeing the world with more truth. If you find me pushing back against you, lean into it and help me to hear you. If you ever find me being overly stubborn, point it out; it won't be a surprise although you may catch me getting red in the face from embarrassment.
 
 ### Gets bored easily
 
