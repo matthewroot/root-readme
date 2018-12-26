@@ -148,7 +148,7 @@ If you're interested in learning more about what's transpired in my life and the
 Besides having a genuine love of technology, and software in particular, I am passionate about a number of other activities. Here's a sampling of those:
 
 - __Learning__: a huge part of why I love being a manager is to help others to learn and grow. I'm also extremely passionate about my own pursuit of knowledge in the interest of trying to better understand the universe. Genetics, neuroscience, psychology, and space are a few recurring topics for me.
-- __Games__: videogames make up the majority of my gaming time but I also really enjoy boardgames. I'm particularly invigorated these days by cooperative games. I've spent way too much time playing Dota 2.
+- __Games__: videogames make up the majority of my gaming time but I also really enjoy tabletop games. I'm particularly invigorated these days by cooperative games. I've spent way too much time playing Dota 2.
 - __Reading__: I read both fiction and nonfiction. I'm always looking for new book recommendations so this is one of my favorite topics to connect with people on. The majority of my fiction reading is spent on sci-fi and fantasy but I dabble all over.
 - __Physical fitness__: while I don't spend much time playing organized sports as I get older, I still take my physical fitness quite seriously. This means both eating healthy and putting in solid work at the gym. If you're looking to improve your fitness, I'd be happy to help in any way I can.
 - __Music__: my dad is an audiophile so this was inevitable. I like just about everything except country and opera. I spend most of my time listening to a mix of classic rock, 90s, electronic music, and hip hop. Abbey Road is my favorite Beatles album.
