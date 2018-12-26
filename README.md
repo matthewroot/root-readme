@@ -4,7 +4,28 @@ __What is this?__
 
 Think of this as documentation for Matthew Root. Its intended purpose is to accelerate your understanding of me as a human and Engineering Manager and to provide insight into what our working relationship will look like. It is __not__ intended as a substitute for getting to know me. Building a relationship, in real life, is one of the most important things we'll do together. This README should be used as a supplement and a guide rather than a replacement for that.
 
-<!-- TOC -->autoauto- [Management Philosophy](#management-philosophy)auto- [Expectations](#expectations)auto    - [What you can expect of me](#what-you-can-expect-of-me)auto    - [What I will expect of you](#what-i-will-expect-of-you)auto    - [Balancing life and work](#balancing-life-and-work)auto- [Communicating With Me](#communicating-with-me)auto    - [Talking](#talking)auto    - [Slack](#slack)auto    - [Email](#email)auto    - [PagerDuty](#pagerduty)auto    - [Mobile phone](#mobile-phone)auto    - [Social media](#social-media)auto- [Bugs & Quirks](#bugs--quirks)auto    - [Direct and intense](#direct-and-intense)auto    - [Fast talker, sporadic rambler](#fast-talker-sporadic-rambler)auto    - [Stubborn](#stubborn)auto    - [Gets bored easily](#gets-bored-easily)auto- [My Story](#my-story)auto    - [Chapter 1: NOVA](#chapter-1-nova)auto    - [Chapter 2: State College](#chapter-2-state-college)auto    - [Chapter 3: Various](#chapter-3-various)auto    - [Chapter 4: San Francisco](#chapter-4-san-francisco)auto- [Personal Interests](#personal-interests)auto- [Want to work together?](#want-to-work-together)autoauto<!-- /TOC -->
+<!-- TOC -->
+
+- [Management Philosophy](#management-philosophy)
+- [Expectations](#expectations)
+    - [What you can expect of me](#what-you-can-expect-of-me)
+    - [What I will expect of you](#what-i-will-expect-of-you)
+    - [Balancing life and work](#balancing-life-and-work)
+- [Communicating With Me](#communicating-with-me)
+    - [Talking](#talking)
+    - [Slack](#slack)
+    - [Email](#email)
+    - [PagerDuty](#pagerduty)
+    - [Mobile phone](#mobile-phone)
+    - [Social media](#social-media)
+- [Bugs & Quirks](#bugs--quirks)
+    - [Direct and intense](#direct-and-intense)
+    - [Fast talker, sporadic rambler](#fast-talker-sporadic-rambler)
+    - [Stubborn](#stubborn)
+    - [Gets bored easily](#gets-bored-easily)
+- [My Story](#my-story)
+- [Personal Interests](#personal-interests)
+- [Want to work together?](#want-to-work-together)
 
 ## Management Philosophy
 
@@ -125,7 +146,7 @@ Like most humans, I come equipped with a handful of flaws and personality traits
 
 ### Direct and intense
 
-My [Insights personality profile](matthew_root_insights_insights_color_breakdown.pdf) is _quite_ [red](https://www.consciousbusinesspeople.com/wp-content/uploads/2017/10/insights-four-colour-energies-preferences-1.png). When we interact, I probably won't beat around the bush and may be more direct than you prefer. I also tend to become more intense as I bring more of my focus to bear on a problem. My brow may furrow and I might even look mad. Be aware this is typically not a reflection of my emotional state, it's just how I look when my brain is getting down to business on a good challenge. If my directness or intensity becomes too much, there's no harm in letting me know so I can dial it back a bit.
+My [Insights personality profile](matthew_root_insights_color_breakdown.pdf) is _quite_ [red](https://www.consciousbusinesspeople.com/wp-content/uploads/2017/10/insights-four-colour-energies-preferences-1.png). When we interact, I probably won't beat around the bush and may be more direct than you prefer. I also tend to become more intense as I bring more of my focus to bear on a problem. My brow may furrow and I might even look mad. Be aware this is typically not a reflection of my emotional state, it's just how I look when my brain is getting down to business on a good challenge. If my directness or intensity becomes too much, there's no harm in letting me know so I can dial it back a bit.
 
 ### Fast talker, sporadic rambler
 
