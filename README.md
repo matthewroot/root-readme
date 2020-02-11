@@ -138,6 +138,7 @@ If it's off-hours and urgent, please page me.
 I generally try to avoid disseminating my mobile number at work. If you think you'll need it, let's talk.
 
 ### Social media
+
 Nope.
 
 ## Bugs & Quirks

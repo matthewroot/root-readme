@@ -1,6 +1,6 @@
 # My Story
 
-I've traversed an atypical path into Engineering Management. Here's my lifestory in a nutshell to provide you some insight into my road from then to now.
+I've traversed an atypical path into Engineering Management. Here's my life story in a nutshell to provide you some insight into my road from then to now.
 
 ## Chapter 1: NOVA
 
@@ -33,7 +33,11 @@ I've traversed an atypical path into Engineering Management. Here's my lifestory
 - AngelPoints is acquired, VP of Eng leaves, sadness ensues.
 - Joined Opower, a rapidly growing mid-sized startup focused on driving energy efficiency using behavioral science, as an Associate Professional Services Engineer.
 - Spent the next 2.5 years rising through the PSE ranks and taking on some of the most complex projects the group faced. Began managing a delivery team with several direct reports.
+- Got married and became forever grateful that someone amazing loves me enough to tolerate my many faults.
 - Transitioned into Engineering to manage a team focused on internal tools development. Spent about six months as an individual contributor and learning the tech stack before fully transitioning into EM role. Spent my last two years at Opower managing this team in various incarnations and working on a handful of applications
-- Oracle acquires Opower, a huge chunk of Engineering leaves including my manager, sadness ensues.
+- Oracle acquires Opower, a huge chunk of Engineering leaves, including my manager, sadness ensues.
+- Baby Root #1 arrives and I learn that parenting is really hard.
 - Joined Optimizely, a rapidly growing mid-sized startup focused on digital experimentation, as an Engineering Manager for the Frontend Engineering team.
+- Baby Root #2 arrives and I learn that parenting one kid was a cakewalk and I didn't know it and that raising two kids is an impossible task.
+- Joined Uptrust, a tiny startup helping to eliminate mass incarceration, as VP of Engineering and employee #7. Fell in love with tiny startups and mission-driven work all over again.
 - ?
