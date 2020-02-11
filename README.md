@@ -123,7 +123,7 @@ If we aren't co-located and you want to talk, send me a message on Slack and we 
 
 ### Slack
 
-Generally, the easiest way to get in touch with me. I try to stay on top of Slack and respond in less than an hour during the workday. The one complication is that I'm frequently in meetings. It's my goal to be focused in a meeting and not doing other things. I typically play catch up on Slack between meetings. In the event that I'll need more time to respond, I will try to let you know that.
+Generally, the easiest way to get in touch with me. I try to stay on top of Slack and respond in less than an hour during the workday. The one complication is meetings because it's my goal to be focused and not doing other things. I typically play catch up on Slack between meetings. In the event that I'll need more time to respond, I will try to let you know that.
 
 ### Email
 
