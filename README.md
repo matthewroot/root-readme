@@ -41,6 +41,7 @@ The following are the tenets that provide the foundation for how I prefer to man
 - __Management is important and valuable__: Great managers can make a positive difference in people's lives and can materially impact the success of a team or a business. Bad or apathetic management can be equally destructive. My goal is to provide a great management experience to everyone I work with. An important distinction here is this does not mean my focus is on trying to make everyone like me all the time. Oustanding management often means telling people hard truths. Which leads into...
 - __Feedback is vital:__ It's necessary to give pointed, direct feedback on a regular basis. I believe waiting for an infrequently-scheduled review to help someone improve is failing them. I also recognize that it's equally important for me to seek out feedback from those around me, in all directions, in order to drive my own growth.
 - __Diverse teams make the best decisions__: I want to build teams that are comprised of a variety of backgrounds and talent profiles. I view this as both a sound strategy for success and a moral imperative. To unlock the power of these different experiences, I place a high premium on effective communication.
+- __Let's have some fun out there__: Teams spend a lot of time together; I think it's best if they can truly enjoy it. Some moments call for being dialed in but otherwise it's best not to take ourselves too seriously. When in doubt, I'll try to provide the levity.
 
 ## Expectations
 
