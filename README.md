@@ -2,7 +2,7 @@
 
 __What is this?__
 
-Think of this as documentation for Matthew Root. Its intended purpose is to accelerate your understanding of me as a human and Engineering Manager and to provide insight into what our working relationship will look like. It is __not__ intended as a substitute for getting to know me. Building a relationship, in real life, is one of the most important things we'll do together. This README should be used as a supplement and a guide rather than a replacement for that. But, as a starter, I'd like you to know that my alignment is [Chaotic Good](http://easydamus.com/chaoticgood.html).
+Think of this as documentation for Matthew Root. Its intended purpose is to accelerate your understanding of me as a human and engineering leader and to provide insight into what our working relationship will look like. It is __not__ intended as a substitute for getting to know me. Building a relationship, in real life, is one of the most important things we'll do together. This README should be used as a supplement and a guide rather than a replacement for that. But, as a starter, I'd like you to know that my alignment is [Chaotic Good](http://easydamus.com/chaoticgood.html).
 
 <!-- TOC -->
 
@@ -51,7 +51,7 @@ Here is a short list of behaviors you should expect from me at all times. If I'm
 
 #### You will be a top priority
 
-It's my belief that the people who report to me are _the job_. I'm tasked with various other responsibilities as an Engineering Manager but none are higher priority in my view than ensuring my direct reports are getting what they need to be successful. In practice, this means you should expect that I will make time for you when you need it, follow through on commitments I make to you, and help you deal with whatever challenges you encounter.
+It's my belief that the people who report to me are _the job_. I'm tasked with various other responsibilities as an engineering leader but none are higher priority in my view than ensuring my direct reports are getting what they need to be successful. In practice, this means you should expect that I will make time for you when you need it, follow through on commitments I make to you, and help you deal with whatever challenges you encounter.
 
 #### Give my best in everything I do
 
