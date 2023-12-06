@@ -178,4 +178,4 @@ Besides having a genuine love of technology, and software in particular, I am pa
 
 ## Want to work together?
 
-If any of the above resonated with you and we're not already working together (and you'd be interested in changing that), please connect with me on [LinkedIn](https://www.linkedin.com/in/rootmatt/). We're always looking for great engineers to add to the [Uptrust](https://www.uptrust.co) team.
+If any of the above resonated with you and we're not already working together (and you'd be interested in changing that), please connect with me on [LinkedIn](https://www.linkedin.com/in/rootmatt/). We're always looking for great engineers to add to the [Square](https://careers.squareup.com/us/en/jobs?brand%5B%5D=Square) team.
